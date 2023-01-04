@@ -8,5 +8,5 @@ serde = "1.0"
 rand = "0.7"
 
 [[bin]]
-name = "my-project"
+name = "passmaker"
 path = "src/passmaker.rs"
