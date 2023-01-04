@@ -3,7 +3,10 @@ name = "passmaker"
 version = "0.1.0"
 edition = "2021"
 
-
 [dependencies]
 serde = "1.0"
 rand = "0.7"
+
+[[bin]]
+name = "my-project"
+path = "src/passmaker.rs"
