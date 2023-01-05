@@ -1,2 +1,2 @@
 # PassMaker
-### Basic Tool for make custom passwords
+### Basic Tool to make custom passwords
